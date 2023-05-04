@@ -10,27 +10,27 @@ namespace Expr10
         
         static void Main()
         {
-            int answer = GetSumDivisibleByThree(MaxNumberDivisibleByThree, 0) +
-                         GetSumDivisibleByFive(MaxNumberDivisibleByFive, 0);
+            int answer = CalculateSumDivisibleByThree(MaxNumberDivisibleByThree, 0) +
+                         CalculateSumDivisibleByFive(MaxNumberDivisibleByFive, 0);
             Console.WriteLine("Рекурсией: " + answer);
-            Console.WriteLine("Циклом: " + GetSumTest());
+            Console.WriteLine("Циклом: " + CalculateSumTest());
         }
 
-        static int GetSumDivisibleByThree(int maxNumber, int sum)
+        static int CalculateSumDivisibleByThree(int maxNumber, int sum)
         {
             if (maxNumber < 0) return sum;
             sum += maxNumber;
-            return GetSumDivisibleByThree(maxNumber - 3, sum);
+            return CalculateSumDivisibleByThree(maxNumber - 3, sum);
         }
 
-        static int GetSumDivisibleByFive(int maxNumber, int sum)
+        static int CalculateSumDivisibleByFive(int maxNumber, int sum)
         {
             if (maxNumber < 0) return sum;
             sum += maxNumber;
-            return GetSumDivisibleByFive(maxNumber - 5, sum);
+            return CalculateSumDivisibleByFive(maxNumber - 5, sum);
         }
 
-        static int GetSumTest()
+        static int CalculateSumTest()
         {
             int sum = 0;
             for (int i = 0; i < 1000; i++)

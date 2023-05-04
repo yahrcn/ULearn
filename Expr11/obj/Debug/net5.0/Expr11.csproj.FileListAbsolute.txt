@@ -1,0 +1,16 @@
+E:\CSharp\ULearn\Expr11\bin\Debug\net5.0\Expr11.exe
+E:\CSharp\ULearn\Expr11\bin\Debug\net5.0\Expr11.deps.json
+E:\CSharp\ULearn\Expr11\bin\Debug\net5.0\Expr11.runtimeconfig.json
+E:\CSharp\ULearn\Expr11\bin\Debug\net5.0\Expr11.runtimeconfig.dev.json
+E:\CSharp\ULearn\Expr11\bin\Debug\net5.0\Expr11.dll
+E:\CSharp\ULearn\Expr11\bin\Debug\net5.0\ref\Expr11.dll
+E:\CSharp\ULearn\Expr11\bin\Debug\net5.0\Expr11.pdb
+E:\CSharp\ULearn\Expr11\obj\Debug\net5.0\Expr11.csproj.AssemblyReference.cache
+E:\CSharp\ULearn\Expr11\obj\Debug\net5.0\Expr11.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\ULearn\Expr11\obj\Debug\net5.0\Expr11.AssemblyInfoInputs.cache
+E:\CSharp\ULearn\Expr11\obj\Debug\net5.0\Expr11.AssemblyInfo.cs
+E:\CSharp\ULearn\Expr11\obj\Debug\net5.0\Expr11.csproj.CoreCompileInputs.cache
+E:\CSharp\ULearn\Expr11\obj\Debug\net5.0\Expr11.dll
+E:\CSharp\ULearn\Expr11\obj\Debug\net5.0\ref\Expr11.dll
+E:\CSharp\ULearn\Expr11\obj\Debug\net5.0\Expr11.pdb
+E:\CSharp\ULearn\Expr11\obj\Debug\net5.0\Expr11.genruntimeconfig.cache
